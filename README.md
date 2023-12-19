@@ -1,4 +1,4 @@
-# currency
+# currency converter 
 
 def convert_currency(amount, exchange_rate):
     return amount * exchange_rate
